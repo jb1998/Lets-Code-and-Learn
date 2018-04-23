@@ -2,10 +2,10 @@
     import java.lang.*;
     import java.io.*;
 
-     
+
     class Demo
     {
-    	public static void main (String[] args) throws java.lang.Exception
+    	public static void main (String[] args)
     	{
     		int withd=0;double initial=0.0;
     		Scanner s= new Scanner(System.in);

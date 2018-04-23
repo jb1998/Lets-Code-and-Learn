@@ -4,7 +4,7 @@ import java.io.*;
 
 class Demo
 {
-	public static void main (String[] args) throws java.lang.Exception
+	public static void main (String[] args)
 	{
 	int t=0;
   	Scanner s= new Scanner(System.in);

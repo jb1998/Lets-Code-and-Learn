@@ -1,10 +1,10 @@
 import java.util.*;
 import java.lang.*;
 import java.io.*;
- 
+
 class Demo
 {
-	public static void main (String[] args) throws java.lang.Exception
+	public static void main (String[] args) 
 	{
 		int n,k,t,output=0;
 		Scanner s= new Scanner(System.in);
